@@ -1,0 +1,6 @@
+C:\Users\karim\Desktop\visual studio proget\ferst lerne programin and devloper\ferst lerne programin and devloper\feurst variable\feurst variable\bin\Debug\feurst variable.exe.config
+C:\Users\karim\Desktop\visual studio proget\ferst lerne programin and devloper\ferst lerne programin and devloper\feurst variable\feurst variable\bin\Debug\feurst variable.exe
+C:\Users\karim\Desktop\visual studio proget\ferst lerne programin and devloper\ferst lerne programin and devloper\feurst variable\feurst variable\bin\Debug\feurst variable.pdb
+C:\Users\karim\Desktop\visual studio proget\ferst lerne programin and devloper\ferst lerne programin and devloper\feurst variable\feurst variable\obj\Debug\feurst variable.csprojResolveAssemblyReference.cache
+C:\Users\karim\Desktop\visual studio proget\ferst lerne programin and devloper\ferst lerne programin and devloper\feurst variable\feurst variable\obj\Debug\feurst variable.exe
+C:\Users\karim\Desktop\visual studio proget\ferst lerne programin and devloper\ferst lerne programin and devloper\feurst variable\feurst variable\obj\Debug\feurst variable.pdb
