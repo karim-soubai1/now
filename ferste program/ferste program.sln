@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ferste program", "ferste program\ferste program.csproj", "{EA171257-5E57-45CB-8C81-F3637115AC5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA171257-5E57-45CB-8C81-F3637115AC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA171257-5E57-45CB-8C81-F3637115AC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA171257-5E57-45CB-8C81-F3637115AC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA171257-5E57-45CB-8C81-F3637115AC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
