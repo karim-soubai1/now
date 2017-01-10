@@ -1,0 +1,6 @@
+C:\Users\karim\Desktop\visual studio proget\datatype\datatype\bin\Debug\datatype.exe.config
+C:\Users\karim\Desktop\visual studio proget\datatype\datatype\bin\Debug\datatype.exe
+C:\Users\karim\Desktop\visual studio proget\datatype\datatype\bin\Debug\datatype.pdb
+C:\Users\karim\Desktop\visual studio proget\datatype\datatype\obj\Debug\datatype.csprojResolveAssemblyReference.cache
+C:\Users\karim\Desktop\visual studio proget\datatype\datatype\obj\Debug\datatype.exe
+C:\Users\karim\Desktop\visual studio proget\datatype\datatype\obj\Debug\datatype.pdb
